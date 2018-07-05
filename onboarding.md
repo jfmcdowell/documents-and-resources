@@ -1,22 +1,30 @@
-# How to Rands
+# How to Jfmcdowell
 Hi, welcome to the team. I’m so glad you are here at $COMPANY.
 
-It’s going to take a solid quarter to figure this place out. I understand the importance of first impressions, and I know you want to get a check in the win column, but this is a complex place full of equally complex humans. Take your time, meet everyone, go to every meeting, write things down, and ask all the questions – especially about all those baffling acronyms and emoji.
+It’s going to take a solid quarter to figure this place out. I understand the importance of first impressions, and I know you want to get a check in the win column, but this is a complex place full of equally complex humans. Take your time, meet everyone, go to every meeting, write things down, and ask all the questions – especially about all those baffling acronyms.
 
 One of the working relationships we need to define is ours. The following is a user guide for me and how I work. It captures what you can expect out of the average week working with me, how I like to work, my north star principles, and some of my, uh, nuance. My intent is to accelerate our working relationship with this document.[^1]
 
 ## Our Average Week
-We’ll have a 1:1 every week for at least 30 minutes no matter what. This meeting discusses topics of substance, not updates. I’ve created a private Slack channel for the two us of to capture future topics for our 1:1s as well as to provide a handy historic record of what we’ve discussed. When you or I think of a topic, we dump it in that channel. 
+We’ll have a 1:1 every week for at least 30 minutes no matter what. This meeting discusses topics of substance, not updates. I’ve created a private WebEx Team channel for the two us of to capture future topics for our 1:1s as well as to provide a handy historic record of what we’ve discussed. When you or I think of a topic, we dump it in that channel.
 
 We’ll have a staff meeting with your peers every week for 60 minutes no matter what. Unlike 1:1s, we have a shared document which captures agenda topics for the entire team. Similar to 1:1s, we aren’t discussing status at this meeting, but issues of substance that affect the whole team.
 
-You can Slack me 24 hours a day. I like responding quickly.
+You can reach me via WebEx Team 24 hours a day. I like responding quickly.
 
 If I am traveling, I will give you notice of said travel in advance. All our meetings still occur albeit with time zone considerations.
 
-I work a bit on the weekends. This is my choice. **I do not expect that you are going to work on the weekend.** I might Slack you things, but unless the thing says URGENT, it can always wait until work begins for you on Monday.
+I work a bit on the weekends. This is my choice. **I do not expect that you are going to work on the weekend.** I might WebEx Team you things, but unless the thing says URGENT, it can always wait until work begins for you on Monday.
 
 ## North Star Principles
+**Everyone is welcome** I believe in creating a culture of warmth and belonging, where everyone is welcome.
+
+**Challenge the status quo** I believe in acting with courage, challenging the status quo, and finding new ways to grow our company and each other.
+
+**Being Present** I believe in being present, connecting with transparency, dignity, and respect.
+
+**Accountability** I believe in delivering my very best, and holding myself accountable for the results.
+
 **Humans first.** I believe that happy, informed, and productive humans build fantastic product. I optimize for the humans. Other leaders will maximize the business, the technology, or any other number of important facets. Ideological diversity is key to an effective team. All perspectives are relevant, and we need all these leaders, but my bias is towards building productive humans.
 
 **Leadership comes from everywhere.** My wife likes to remind me that I hated meetings for the first ten years of my professional career. She’s right. I’ve wasted a lot of time in poorly run meetings by bad managers. As an engineer, I remain skeptical of managers even as a manager. While I believe managers are an essential part of a scaling organization, I don’t believe they have a monopoly on leadership, and I work hard to build other constructs and opportunities in our teams for non-managers to effectively lead.
@@ -29,7 +37,7 @@ I work a bit on the weekends. This is my choice. **I do not expect that you are 
 
 **I believe in the compounding awesomeness of continually fixing small things.** I believe quality assurance is everyone’s responsibility and there are bugs to be fixed everywhere… all the time.
 
-**I start with an assumption of positive intent for all involved.** This has worked out well for me over my career. 
+**I start with an assumption of positive intent for all involved.** This has worked out well for me over my career.
 
 ## Feedback Protocol
 I firmly believe that feedback is at the core of building trust and respect in a team.
@@ -44,8 +52,8 @@ Disagreement is feedback and the sooner we learn how to efficiently disagree wit
 
 ## Meeting Protocol
 I go to a lot of meetings. I deliberately run with my calendar publicly visible. If you have a question about a meeting on my calendar, ask me. If a meeting is private or confidential, its title and attendees will be hidden from your view. The vast majority of my meetings are neither private nor confidential.
- 
-My definition of a meeting includes an agenda and/or intended purpose, the appropriate amount of productive attendees, and a responsible party running the meeting to a schedule. If I am attending a meeting, I’d prefer starting on time. If I am running a meeting, I will start that meeting on time. If it’s not clear to me why I am in a meeting, I will ask for clarification on my attendance. 
+
+My definition of a meeting includes an agenda and/or intended purpose, the appropriate amount of productive attendees, and a responsible party running the meeting to a schedule. If I am attending a meeting, I’d prefer starting on time. If I am running a meeting, I will start that meeting on time. If it’s not clear to me why I am in a meeting, I will ask for clarification on my attendance.
 
 If you send me a presentation deck a reasonable amount of time before a meeting, I will read it before the meeting and will have my questions at the ready. If I haven’t read the deck, I will tell you.
 
@@ -59,7 +67,7 @@ If a meeting completes its intended purpose before it’s scheduled to end, let�
 
 **When I ask you to do something that feels poorly defined** you should ask me for both clarification and a call on importance. I might still be brainstorming. These questions can save everyone a lot of time.
 
-**Ask assertive versus tell assertive.** When you need to ask me to do something, ask me. I respond incredibly well to ask assertiveness (“Rands, can you help with X?”). I respond poorly to being told what to do (“Rands, do X.”) I have been this way since I was a kid and I probably need therapy.
+**Ask assertive versus tell assertive.** When you need to ask me to do something, ask me. I respond incredibly well to ask assertiveness (“Jfmcdowell, can you help with X?”). I respond poorly to being told what to do (“Jfmcdowell, do X.”) I have been this way since I was a kid and I probably need therapy.
 
 **I can be hyperbolic** but it’s almost always because I am excited about the topic. I also swear sometimes. Sorry.
 
@@ -73,4 +81,4 @@ If a meeting completes its intended purpose before it’s scheduled to end, let�
 
 **This document is a [living breathing thing](https://github.com/randsleadershipslack/documents-and-resources/blob/master/howtorands.md)** and likely incomplete. I will update it frequently and would appreciate your feedback.
 
-[^1]: Speculation: there is an idea in this document that you’d like your manager to do. Thesis: Just because I have a practice or a belief doesn’t mean it’s the right practice or belief for your manager. Suggestion: Ask your manager if they think my practice or belief is a good idea and see what happens. Feedback is a gift. 
+[^1]: Speculation: there is an idea in this document that you’d like your manager to do. Thesis: Just because I have a practice or a belief doesn’t mean it’s the right practice or belief for your manager. Suggestion: Ask your manager if they think my practice or belief is a good idea and see what happens. Feedback is a gift.
