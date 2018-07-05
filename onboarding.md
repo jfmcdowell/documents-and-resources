@@ -35,7 +35,7 @@ I work a bit on the weekends. This is my choice. **I do not expect that you are 
 
 **I heavily bias towards action.** Long meetings where we are endlessly debating potential directions are often valuable, but I believe starting is the best way to begin learning and make progress. This is not always the correct strategy. This strategy annoys those who like to debate.
 
-**I believe in the compounding awesomeness of continually fixing small things.** I believe quality assurance is everyone’s responsibility and there are bugs to be fixed everywhere… all the time.
+**I believe in the compounding awesomeness of continually fixing small things.** I believe security and quality assurance is **everyone’s responsibility** and there are bugs to be fixed everywhere… all the time.
 
 **I start with an assumption of positive intent for all involved.** This has worked out well for me over my career.
 
@@ -60,7 +60,6 @@ If you send me a presentation deck a reasonable amount of time before a meeting,
 If a meeting completes its intended purpose before it’s scheduled to end, let’s give the time back to everyone. If it’s clear the intended goal won’t be achieved in the allotted time, let’s stop the meeting before time is up and determine how to finish the meeting later.
 
 ## Nuance and Errata
-
 **I am an introvert** and that means that prolonged exposure to humans is exhausting for me. Weird, huh? Meetings with three of us are perfect, three to eight are ok, and more than eight you will find that I am strangely quiet. Do not confuse my quiet with lack of engagement.
 
 **When the 1:1 feels over, and there is remaining time** I always have a couple of meaty topics to discuss. This is brainstorming, and the issues are usually front-of-mind hard topics that I am processing. It might feel like we’re shooting the shit, but we’re doing real work.
@@ -71,7 +70,7 @@ If a meeting completes its intended purpose before it’s scheduled to end, let�
 
 **I can be hyperbolic** but it’s almost always because I am excited about the topic. I also swear sometimes. Sorry.
 
-**I love to start new things** but I often lose interest when I can mentally see how the thing is going to finish which might be weeks or month the thing is actually done. Sorry. I’m getting better at this.
+**I love to start new things** but I often lose interest when I can mentally see how the thing is going to finish which might be weeks or month before the thing is actually done. Sorry. I’m getting better at this.
 
 **If I am on my phone during a meeting for more than 30 seconds, say something.** My attention wanders.
 
